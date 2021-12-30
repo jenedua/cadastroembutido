@@ -11,7 +11,7 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/login.png">
     <title>Acesso Restrito</title>
     <!-- Bootstrap Core CSS -->
     <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,14 +27,14 @@ session_start();
     
    
     
-       <header class="topbar container" style="height:60px">
+       <header class="topbar container" style="height:40px;width:150%;">
 	   
 	           <nav class="navbar top-navbar navbar-expand-md navbar-light">
                 <!-- ============================================================== -->
                 <!-- Logo -->
                 <!-- ============================================================== -->
                 
-                <h1 class="text-white"style="font-family: Montserrat ;font: 25px Verdana, Geneva, sans-serif;margin-left: 500px "> Gestão de Projetos</h1> 
+                <h1 class="text-white"style=" margin-top:-20px;font-family: Montserrat ;font: 25px Verdana, Geneva, sans-serif;margin-left: 600px ">Login</h1> 
             </nav>
             <!--<nav class="navbar top-navbar navbar-expand-md navbar-light">
                 <a class="navbar-brand"  href="#"style="margin-left:-15px;padding-top:0px;padding-bottom:12px"><img class="light-logo"  alt="logo" src="./imagens/logo5.png"></a>
@@ -85,7 +85,7 @@ session_start();
           </div>
               
     </section>
-	<footer class="footer container" style="font-family: Montserrat ;font: 13px Verdana, Geneva, sans-serif;background-color:lavender;padding:1px"> 
+	<footer class="footer container" style="width:80%;font-family: Montserrat ;font: 13px Verdana, Geneva, sans-serif;background-color:lavender;padding:1px"> 
 		    Sistema de gestão projeto <span class="flaticon-telephone-1"></span> <span class="flaticon-email-filled-closed-envelope">  © 2021  </span>
 	</footer>
    

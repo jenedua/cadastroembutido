@@ -16,7 +16,7 @@ ini_set("display_errors", 0);
         <meta name="description" content="Fedner Dabady">
         <meta name="author" content="Fedner Dabady">
         <!-- Favicon icon -->
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo-simbolo.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/login.png">
         <title>Cadastro</title>
         <!-- Bootstrap Core CSS -->
         <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -76,14 +76,14 @@ ini_set("display_errors", 0);
     </head>
     
     <body style="background-color:#082767;">
-    <header class="topbar" style="height:50">
+    <header class="topbar" style="height:40px;">
 	   
        <nav class="navbar top-navbar navbar-expand-md navbar-light">
         <!-- ============================================================== -->
         <!-- Logo -->
         <!-- ============================================================== -->
         
-        <h1 class="text-white"style="font-family: Montserrat ;font: 25px Verdana, Geneva, sans-serif;margin-left: 500px "> Gestão de Projetos</h1> 
+        <h1 class="text-white"style=" margin-top:-28px;font-family: Montserrat ;font: 25px Verdana, Geneva, sans-serif;margin-left: 600px "> Cadastro</h1> 
     </nav>
     <!--<nav class="navbar top-navbar navbar-expand-md navbar-light">
         <a class="navbar-brand"  href="#"style="margin-left:-15px;padding-top:0px;padding-bottom:12px"><img class="light-logo"  alt="logo" src="./imagens/logo5.png"></a>
